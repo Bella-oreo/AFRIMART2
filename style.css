@@ -22,8 +22,8 @@ body, html {
 }
 
 .logo {
-    width: 150px; /* Adjust width as needed */
-    height: auto; /* Keeps aspect ratio */
+    width: 70px; /* Adjust width as needed */
+    height: 70px; /* Keeps aspect ratio */
 }
 
 #navbar{
@@ -75,7 +75,7 @@ body, html {
 }
 
 #hero{
-    background-image: url("images/hero.jpeg");
+    background-image: url("images/ecommercebackground1.jpg");
     height:90vh;
     width:100%;
     background-position: top 25% right 0 ;
@@ -182,6 +182,7 @@ button.white{
 #feature .fe-box img{
     width:100%;
     margin-bottom: 10px;
+    height: auto;
 }
 
 #feature .fe-box h6{
@@ -300,7 +301,7 @@ button.white{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/backgroundpart3.jpeg");
+    background-image: url("images/bannerbackground2.jpg");
     width:100%;
     height:40vh;
     background-size: cover;
@@ -335,7 +336,7 @@ button.white{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/salegif2.gif");
+    background-image: url("images/midbanner2.jpg");
     width:580px;
     height:58vh;
     background-size: cover;
@@ -349,7 +350,7 @@ button.white{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/collectiongif1.gif");
+    background-image: url("images/midbanner1.gif");
     width:580px;
     height:58vh;
     background-size: cover;
@@ -373,7 +374,7 @@ button.white{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/winteroffer2.jpeg");
+    background-image: url("images/wintercollection.jpg");
     min-width: 30%;
     height:30vh;
     background-size: cover;
@@ -383,11 +384,11 @@ button.white{
 }
 
 #banner3  .banner-box2{
-    background-image: url("images/seasonclothing1.jpeg");
+    background-image: url("images/Good\ Quality\ and\ Variety\ of\ colors\ available.jpg");
 }
 
 #banner3  .banner-box3{
-    background-image: url("images/seasonclothing2.jpeg");
+    background-image: url("images/streetwear2.jpg");
 }
 
 #banner3{
